@@ -1,7 +1,7 @@
 # MyNew.Website
 Module 1 Mini Project
 
-##User Story
+## User Story
 
 As a client, I want to view a single webpage that collects a visitor's contact information.
 As a client, I want the landing page to have a header and footer.
@@ -9,7 +9,7 @@ As a client, I want the landing page to have an image with a caption.
 As a client, I want the landing page to have a contact form.
 As a client, I want the landing page to have a polished and accessible UI.
 
-##Acceptance Criteria
+## Acceptance Criteria
 
 It's done when the page uses semantic HTML elements.
 It's done when the page uses universal, element, and class selectors in CSS.
